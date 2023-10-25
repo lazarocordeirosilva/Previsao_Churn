@@ -1,4 +1,4 @@
-
+![retencao3](https://github.com/lazarocordeirosilva/Previsao_Churn/assets/132832478/e1285757-6923-423f-b22a-14b80499e118)
 
 # Previsão de Churn: Identificação e Estratégias de Retenção
 
@@ -49,7 +49,9 @@ Clientes mais propensos ao Churn:
 * Possuem múltiplas linhas telefônicas
 
 No que diz respeito a modelagem preditiva, foi possível obter uma taxa de verdadeiros positivos de 78,82% 
+
 Os erros do tipo falso negativo, como esperado, foram os menores. Eles representam aproximadamante 22% dos erros totais
+
 Ao focar na métrica de avaliação que contemplasse o desbalanceamento de classes, durante o processo de Cross-Validation, foi possível atingir um f1-score de 62,19 no conjunto de teste
 
 ## Estrutura do Projeto
